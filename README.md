@@ -1,7 +1,4 @@
-- Olá meu nome é Francisco Almir, sou estudante na área de engenharia de software e ciência da computação
-- Tenho experiência com as linguagens de programação Java, C, PHP, JavaScript e com as ferramentas para desenvolvimento web HTML, CSS e bootstrap-5(framework).
-- Tenho conhecimentos sobre estruturas de dados, desenvolvimento de bancos com SQL e XML de projetos de software.
-- No momento, estou a procura principalmente de oportunidades de estágio ou destinadas a desenvolvedores júnior, que envolvam as tecnologias citadas acima no desenvolvimento das atividades, para que possa aprender e ter mais experiência com a área de desenvolvimento.
+Olá!
 <!---
 AnotherOne07/AnotherOne07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
